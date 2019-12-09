@@ -1,0 +1,5 @@
+numpy
+pandas
+confundo
+htools
+pandas_htools
